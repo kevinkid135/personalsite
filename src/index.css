@@ -1,0 +1,40 @@
+header {
+    /*background-image: url('./img/laptop.jpg');*/
+    background-repeat: no-repeat;
+    background-position-x: center;
+    -webkit-background-size: auto 100%;
+    background-size: auto 100%;
+    background-color: lightcyan;
+
+    text-align: center;
+    height: 100vh;
+}
+
+.card {
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+
+    max-width: 400px;
+
+}
+
+.card-img-top {
+    width: 100%;
+    height: auto;
+}
+
+.projectContainer {
+    width: 90%;
+    text-align: center;
+    padding: 2.5%;
+}
+
+#info {
+    position: relative;
+    top: 50%;
+    transform: perspective(1px) translateY(-50%);
+}
