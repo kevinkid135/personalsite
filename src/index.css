@@ -38,3 +38,19 @@ header {
     top: 50%;
     transform: perspective(1px) translateY(-50%);
 }
+
+.sectionTitle {
+    padding-bottom: 8px;
+    margin-bottom: 5%;
+    display: inline-block;
+    border-bottom: 8px solid cyan;
+}
+
+ul, .list-inline p {
+    display: inline-block;
+    margin: 0;
+}
+
+.text-muted .list-inline {
+    float: right;
+}
