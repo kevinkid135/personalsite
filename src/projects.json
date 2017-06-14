@@ -1,0 +1,29 @@
+{
+  "0": {
+    "title": "Personal Website",
+    "pic": "http://bit.ly/1Rs9q0y",
+    "desc": "<p>You're looking at it!</p><p>Responsive design for all devices</p>",
+    "link": "https://github.com/kevinkid135",
+    "tags": [
+      "HTML",
+      "CSS3",
+      "Bootstrap4",
+      "React.js",
+      "animate.css"
+    ]
+  },
+  "1": {
+    "title": "League of Legends Chest Checker",
+    "pic": "http://bit.ly/1Rs9q0y",
+    "desc": "<p>LoLCC calculates 'First Win of the Day', in addition to displaying game data through Riot Games' API</p>",
+    "link": "http://lolcc.me",
+    "git": "https://github.com/kevinkid135/LoLChestChecker",
+    "tags": [
+      "HTML5",
+      "CSS3",
+      "Bootstrap3",
+      "jQuery",
+      "API"
+    ]
+  }
+}
